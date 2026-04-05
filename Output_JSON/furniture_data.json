@@ -1,0 +1,65 @@
+{
+  "furniture": [
+    {
+      "id": "f01",
+      "type": "Gemini_Generated_Image_p1al7kp1al7kp1al_rhino",
+      "label": "Gemini-Generated-Image-p1al7kp1al7kp1al-rhino",
+      "mesh_file": "Gemini_Generated_Image_p1al7kp1al7kp1al_rhino.obj",
+      "dimensions": {
+        "w": 778,
+        "d": 503,
+        "h": 658
+      },
+      "attributes": {
+        "material": "unknown",
+        "weight": null,
+        "preferred_room": "bedroom"
+      },
+      "constraints": {
+        "mustAgainstWall": true,
+        "windowAffinity": true,
+        "avoidDoor": true,
+        "clearance": {
+          "front": 800,
+          "back": 0,
+          "left": 600,
+          "right": 600
+        },
+        "priority": 1
+      }
+    },
+    {
+      "id": "f02",
+      "type": "Gemini_Generated_Image_p1al7kp1al7kp1al_rhino_rhino",
+      "label": "Gemini-Generated-Image-p1al7kp1al7kp1al-rhino-rhino",
+      "mesh_file": "Gemini_Generated_Image_p1al7kp1al7kp1al_rhino_rhino.obj",
+      "dimensions": {
+        "w": 778,
+        "d": 503,
+        "h": 658
+      },
+      "attributes": {
+        "material": "unknown",
+        "weight": null,
+        "preferred_room": "bedroom"
+      },
+      "constraints": {
+        "mustAgainstWall": true,
+        "windowAffinity": true,
+        "avoidDoor": true,
+        "clearance": {
+          "front": 800,
+          "back": 0,
+          "left": 600,
+          "right": 600
+        },
+        "priority": 1
+      }
+    }
+  ],
+  "metadata": {
+    "created": "2026-03-14T19:54:57.031311",
+    "total_items": 2,
+    "version": "1.0"
+  }
+}
